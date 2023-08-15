@@ -1,0 +1,503 @@
+{
+    "Agents": {
+      "Records": [
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake up",
+              "Location": "250 Main Street, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Breakfast at home",
+              "Location": "250 Main Street, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Go to the community center",
+              "Location": "350 Main Street, Cambridge",
+              "Time": 510
+            },
+            {
+              "Activity": "Work on Mural Project",
+              "Location": "350 Main Street, Cambridge",
+              "Time": 540
+            },
+            {
+              "Activity": "Lunch at Kendall Kitchen",
+              "Location": "201 Broadway, Cambridge",
+              "Time": 780
+            },
+            {
+              "Activity": "Back to work on Mural Project",
+              "Location": "350 Main Street, Cambridge",
+              "Time": 840
+            },
+            {
+              "Activity": "Dinner at The Smoke Shop BBQ",
+              "Location": "1 Kendall Square, Cambridge",
+              "Time": 1110
+            },
+            {
+              "Activity": "Social activity at MIT campus",
+              "Location": "77 Massachusetts Ave, Cambridge",
+              "Time": 1200
+            },
+            {
+              "Activity": "Return home",
+              "Location": "250 Main Street, Cambridge",
+              "Time": 1320
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "250 Main Street, Cambridge",
+              "Time": 1380
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake Up",
+              "Location": "180 Memorial Drive, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Coffee and breakfast at home",
+              "Location": "180 Memorial Drive, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Travel to Kendall Square",
+              "Location": "Kendall Square, Cambridge",
+              "Time": 480
+            },
+            {
+              "Activity": "Explore and document the area",
+              "Location": "Kendall Square, Cambridge",
+              "Time": 540
+            },
+            {
+              "Activity": "Lunch at The Smoke Shop BBQ - Kendall Square",
+              "Location": "1 Kendall Square b203, Cambridge, MA 02139",
+              "Time": 720
+            },
+            {
+              "Activity": "Travel to MIT Campus",
+              "Location": "77 Massachusetts Ave, Cambridge, MA 02139",
+              "Time": 780
+            },
+            {
+              "Activity": "Explore and document the area",
+              "Location": "MIT Campus, Cambridge",
+              "Time": 840
+            },
+            {
+              "Activity": "Travel back home",
+              "Location": "180 Memorial Drive, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Dinner at home and writing",
+              "Location": "180 Memorial Drive, Cambridge",
+              "Time": 1080
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "180 Memorial Drive, Cambridge",
+              "Time": 1320
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake up",
+              "Location": "210 Massachusetts Avenue, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Morning jog",
+              "Location": "Kendall Square",
+              "Time": 450
+            },
+            {
+              "Activity": "Breakfast",
+              "Location": "210 Massachusetts Avenue, Cambridge",
+              "Time": 510
+            },
+            {
+              "Activity": "Start working on the app",
+              "Location": "210 Massachusetts Avenue, Cambridge",
+              "Time": 570
+            },
+            {
+              "Activity": "Lunch",
+              "Location": "Kendall Square",
+              "Time": 750
+            },
+            {
+              "Activity": "Continue working on the app",
+              "Location": "210 Massachusetts Avenue, Cambridge",
+              "Time": 810
+            },
+            {
+              "Activity": "Dinner",
+              "Location": "The Friendly Toast at Kendall Square",
+              "Time": 1080
+            },
+            {
+              "Activity": "Visit MIT Campus, engage in local events for app testing",
+              "Location": "MIT Campus",
+              "Time": 1200
+            },
+            {
+              "Activity": "Return home, prepare for bed",
+              "Location": "210 Massachusetts Avenue, Cambridge",
+              "Time": 1380
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake Up",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Breakfast at Home",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Start Translation Work",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 510
+            },
+            {
+              "Activity": "Lunch at Kendall Kitchen, Kendall Square",
+              "Location": "201 Broadway, Cambridge",
+              "Time": 720
+            },
+            {
+              "Activity": "Continue Translation Work",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 780
+            },
+            {
+              "Activity": "Visit MIT Museum",
+              "Location": "265 Massachusetts Ave, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Dinner at The Smoke Shop BBQ - Kendall Square",
+              "Location": "1 Kendall Square Bldg 100, Cambridge",
+              "Time": 1140
+            },
+            {
+              "Activity": "Return Home",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 1260
+            },
+            {
+              "Activity": "Personal Reading Time",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 1290
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "190 Ames Street, Cambridge",
+              "Time": 1380
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wakeup",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 360
+            },
+            {
+              "Activity": "Get ready for work",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Leave for Charles River",
+              "Location": "Charles River, Kendall Square",
+              "Time": 480
+            },
+            {
+              "Activity": "Start collecting samples for study",
+              "Location": "Charles River, Kendall Square",
+              "Time": 510
+            },
+            {
+              "Activity": "Lunch break",
+              "Location": "Locale, 350 Third St, Cambridge, MA 02142",
+              "Time": 750
+            },
+            {
+              "Activity": "Return to field work",
+              "Location": "Charles River, Kendall Square",
+              "Time": 810
+            },
+            {
+              "Activity": "Leave work for home",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1080
+            },
+            {
+              "Activity": "Relaxation and recreational activities",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1140
+            },
+            {
+              "Activity": "Preparation for bed",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1260
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1320
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake Up",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Morning Yoga Routine",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Prepare Breakfast",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 510
+            },
+            {
+              "Activity": "Eat Breakfast",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 540
+            },
+            {
+              "Activity": "Review Yoga Session Plan",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 570
+            },
+            {
+              "Activity": "Depart for Kendall Square",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 600
+            },
+            {
+              "Activity": "Meeting with Student",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 630
+            },
+            {
+              "Activity": "Visit MIT Campus",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 690
+            },
+            {
+              "Activity": "Lunch Break",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 750
+            },
+            {
+              "Activity": "Go to Yoga Session Location",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 810
+            },
+            {
+              "Activity": "Prepare Yoga Session",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 840
+            },
+            {
+              "Activity": "Lead Yoga Session",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 900
+            },
+            {
+              "Activity": "End Yoga Session and Head Home",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Prepare Dinner",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1080
+            },
+            {
+              "Activity": "Eat Dinner",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1140
+            },
+            {
+              "Activity": "Relaxation",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1200
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1320
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake up",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Breakfast at home",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Drive to MIT Campus for meeting",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 480
+            },
+            {
+              "Activity": "Lunch at The Miracle of Science Bar & Grill",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 720
+            },
+            {
+              "Activity": "Meeting at Karl F. Koster Executive Director MIT Office",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 780
+            },
+            {
+              "Activity": "Visit proposed community garden space near the riverfront",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Dinner at home",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1140
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "260 Main Street, Cambridge",
+              "Time": 1320
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            { "Activity": "Wake Up", "Location": null, "Time": 420 },
+            {
+              "Activity": "Breakfast and Morning Reading",
+              "Location": "150 Memorial Drive, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Research at the Cambridge Public Library",
+              "Location": "449 Broadway, Cambridge",
+              "Time": 510
+            },
+            {
+              "Activity": "Lunch at The Kendall Hotel",
+              "Location": "350 Main St, Cambridge",
+              "Time": 720
+            },
+            {
+              "Activity": "Visit and Study at MIT Landmarks",
+              "Location": "77 Massachusetts Ave, Cambridge",
+              "Time": 780
+            },
+            {
+              "Activity": "Dinner at The Charles River Bistro",
+              "Location": "1 David G Mugar Way, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Evening strolls at the Charles River Reservation",
+              "Location": "Charles River, Cambridge",
+              "Time": 1110
+            },
+            {
+              "Activity": "Preparation of Lecture Notes",
+              "Location": "150 Memorial Drive, Cambridge",
+              "Time": 1200
+            },
+            {
+              "Activity": "Go to Bed",
+              "Location": "150 Memorial Drive, Cambridge",
+              "Time": 1380
+            }
+          ]
+        },
+        {
+          "ConvertedDayActivities": [
+            {
+              "Activity": "Wake Up",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 420
+            },
+            {
+              "Activity": "Enjoy a light breakfast and coffee at home while scanning local food scene news",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 450
+            },
+            {
+              "Activity": "Walk to Kendall Square to review Tatte Bakery for the morning post",
+              "Location": "318 Third Street, Cambridge",
+              "Time": 540
+            },
+            {
+              "Activity": "Head to Caf\u00e9 Luna, Kendall Square for a mid-morning snack",
+              "Location": "612 Main Street, Cambridge",
+              "Time": 660
+            },
+            {
+              "Activity": "Visit the MIT Museum",
+              "Location": "265 Massachusetts Avenue, Cambridge",
+              "Time": 780
+            },
+            {
+              "Activity": "Travel to Meadhall for lunch and review",
+              "Location": "4 Cambridge Center, Cambridge",
+              "Time": 900
+            },
+            {
+              "Activity": "Return home, write reviews, and begin preparing dinner",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 1020
+            },
+            {
+              "Activity": "Eat dinner and relax",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 1140
+            },
+            {
+              "Activity": "Finalize writing and schedule posts for the next day",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 1260
+            },
+            {
+              "Activity": "Bedtime",
+              "Location": "200 Massachusetts Avenue, Cambridge",
+              "Time": 1380
+            }
+          ]
+        }
+      ]
+    }
+  }
