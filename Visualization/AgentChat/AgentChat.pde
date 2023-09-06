@@ -23,6 +23,10 @@ GlobalClock globalClock;
 //Agents
 NetworkAgent networkAgents;
 
+//buildings
+Buildings buildings;
+boolean doneBuildings = false;
+
 int remotePort = 6969;
 UDP udp_analysis;
 
@@ -83,6 +87,14 @@ void setup() {
 
   spotOffScreen  = createGraphics(1920, 1080, P3D);
 
+  buildings = new Buildings();
+  //buildings.loadBuildings("cambridge_buildings.geojson");
+  thread("loadBuildings");
+  //doneBuildings = true;
+
+
+
+
   //offScreen.smooth(8);
   smooth(8);
   surface.setLocation(0, 0);
@@ -126,11 +138,14 @@ void draw() {
     break;
   case 4://abm + interactive area
     if (drawBackgroundImg) {
-      offScreen.image(mapImg, 0, 0, offScreen.width, offScreen.height);
+      //  offScreen.image(mapImg, 0, 0, offScreen.width, offScreen.height);
     }
 
     //agents
-    drawABMTrips(offScreen);
+    //drawABMTrips(offScreen);
+    if (doneBuildings) {
+      buildings.drawBuilings(offScreen);
+    }
 
     //drawABMTrips(offScreen);
     break;
@@ -176,6 +191,7 @@ void draw() {
   int[] clockInfo = globalClock.getCurrentTime();
   String clockTxet = nf(clockInfo[0], 2) + ":" + nf(clockInfo[1], 2) + ":" +  nf(clockInfo[2], 2) + ":" +  nf(clockInfo[3], 2);
   text(clockTxet, 20, 80);
+  text(frameRate, 20, 100);
 }
 
 

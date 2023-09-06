@@ -6,6 +6,12 @@ float   mapScale;
 PVector[] mapBounds;  // [0] Left-Top  [1] Right-Bottom
 
 
+
+void loadBuildings() {
+  buildings.loadBuildings("cambridge_buildings.geojson"); //test
+  doneBuildings = true;
+}
+
 //bounding box
 // FIND NODES BOUNDS -->
 public void setBoundingBox(JSONArray JSONlines) {
